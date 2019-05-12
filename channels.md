@@ -1,3 +1,9 @@
+---
+layout: page
+title: Channels
+permalink: /channels/
+---
+
 |---------------+-------------------------|
 |    Channel    |         Description     |
 |---------------|-------------------------|

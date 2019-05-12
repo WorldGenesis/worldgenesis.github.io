@@ -29,6 +29,7 @@ plugins:
 
 header_pages:
   - index.md
+  - channels.md
   - connect.md
   - about.md
 
