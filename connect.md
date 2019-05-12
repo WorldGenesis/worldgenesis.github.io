@@ -8,7 +8,7 @@ You can connect via two ways:
 
 This will ask you for your nickname and channel to join.
 
-[Webchat Client](https://chat.worldgenesis.net)
+[Webchat Client](https://chat.worldgenesis.net/?join=help)
 
 OR
 
