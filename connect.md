@@ -4,15 +4,16 @@ title: How to Connect
 permalink: /connect/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You can connect via two ways:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This will ask you for your nickname and channel to join.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Webchat Client](https://chat.worldgenesis.net)
 
+OR
 
-[jekyll-organization]: https://github.com/jekyll
+This will connect you directly if you have an IRC client installed on your machine.
+
+[Direct IRC Link](irc://irc.worldgenesis.net)
+
+[Direct IRC-IPv6 Link](irc-ipv6.worldgenesis.net)
