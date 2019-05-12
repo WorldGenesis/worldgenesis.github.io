@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: How to Connect
 permalink: /connect/
 ---
